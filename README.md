@@ -85,7 +85,7 @@ Feature Scaling: All numeric features are standardized using StandardScaler to e
 
 Train-Test Split: The dataset is split into training (67%) and testing (33%) sets.
 
-Model Training & Evaluation: Several classifiers are trained on the training data and evaluated on the test data.
+**Model Training & Evaluation:** Several classifiers are trained on the training data and evaluated on the test data.
 
 📈 **Results**
 After training and testing, the models achieved the following performance:
