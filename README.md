@@ -4,7 +4,7 @@ A machine learning project to classify music genres from the GTZAN dataset using
 **🎵Music Genre Classification with GTZAN**
 This project uses machine learning to classify music into 10 different genres based on audio features. It uses the well-known GTZAN dataset and leverages Python libraries like librosa for audio processing and scikit-learn for modeling.
 
-📋 Table of Contents
+📋 **Table of Contents**
 Overview
 
 
